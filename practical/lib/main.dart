@@ -35,7 +35,7 @@ class _HomePageState extends State<HomePage> {
   //TODO 12) Create a variable. Name it carImageSelector. Make it equal to 0.
 
   //TODO 13) Create a new method named setCarImage.
-  //TODO 13a) The method must set the carImage variable based on setCarImage.
+  //TODO 13a) The method must set the carImage variable based on carImageSelector.
   // If carImageSelector is 0 then carImage must equal 'images/drive_up.png'
   // If carImageSelector is 1 then carImage must equal 'images/drive_right.png'
   // If carImageSelector is 2 then carImage must equal 'images/drive_down.png'
